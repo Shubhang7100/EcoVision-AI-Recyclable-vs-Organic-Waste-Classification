@@ -1,4 +1,4 @@
-# EcoSort AI: Automated Waste Classification using Transfer Learning
+# EcoVision AI - Recyclable vs Organic Waste Classification
 
 ## 📌 Project Overview
 
